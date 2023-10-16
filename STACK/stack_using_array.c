@@ -73,7 +73,7 @@ void display(){
 
     else{
         for(i=top; i>=0 ; i--){
-            printf("%d\t",stack[i]);
+            printf("%d\t",stack[top]);
         }
     }
 }
