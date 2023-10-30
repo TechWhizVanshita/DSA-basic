@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/vansh/OneDrive/Documents/GitHub/DSA-basic/STACK",
-      "program": "c:/Users/vansh/OneDrive/Documents/GitHub/DSA-basic/STACK/build/Debug/outDebug",
+      "cwd": "c:/Users/vansh/OneDrive/Documents/GitHub/DSA-basic/Basic C++",
+      "program": "c:/Users/vansh/OneDrive/Documents/GitHub/DSA-basic/Basic C++/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
