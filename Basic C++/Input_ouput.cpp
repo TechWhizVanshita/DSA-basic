@@ -19,7 +19,7 @@ int main()
     cout << s1 << " " << s2 << endl;
 
     string s3;
-    getline(cin,s3);
+    getline(cin, s3);
 
     cout << s3;
 
